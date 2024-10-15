@@ -1,1 +1,1 @@
-# Project-Galvez-Selena
+# Exercise-Galvez-Selena
